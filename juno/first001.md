@@ -1,1 +1,1 @@
-## know is powerful
+knowledge is powerful
