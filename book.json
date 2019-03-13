@@ -9,21 +9,10 @@
   },
   "plugins": [
     "-sharing",
-    "splitter",
-    "expandable-chapters-small",
-    "anchors",
-
-    "github",
     "github-buttons",
-    "donate",
-    "sharing-plus",
-    "anchor-navigation-ex",
-    "favicon"
+    "sharing-plus"
   ],
   "pluginsConfig": {
-    "github": {
-      "url": "https://github.com/eqxiudev"
-    },
     "github-buttons": {
       "buttons": [{
         "user": "eqxiudev",
@@ -33,12 +22,6 @@
         "count": true
       }
       ]
-    },
-    "donate": {
-      "alipay": "./jaccorot/static/images/cash.jpeg",
-      "title": "",
-      "button": "赞赏",
-      "alipayText": " "
     },
     "sharing": {
       "douban": false,
@@ -62,9 +45,6 @@
         "google", "facebook", "weibo", "twitter",
         "qq", "qzone", "linkedin", "pocket"
       ]
-    },
-    "anchor-navigation-ex": {
-      "showLevel": false
     }
   }
 }
