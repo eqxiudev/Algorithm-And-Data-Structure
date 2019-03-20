@@ -33,7 +33,9 @@ $ cat book/README.md
 This is a book powered by [GitBook](https://github.com/GitbookIO/gitbook).
 ```
 
-SUMMARY.md 是书籍的目录结构。内容如下：
+SUMMARY.md 是书籍的目录结构。其中每个人建个自己的文件夹，更新内容记录在自己的文件夹内。
+
+内容如下：
 
 ```
 $ cat book/SUMMARY.md 
@@ -74,6 +76,10 @@ github 与gitbook.com 可以做关联，每当在github push代码，gitbook.com
 
 1、 [加入github eqxiudev organisation](https://github.com/eqxiudev)
 
-2、 [加入gitbook organisation（要翻墙）](https://www.gitbook.com/invite/eqxiu?invite=-L_ekZGCIl3Xrs2wh3Pe)
+2、 github push 心得
 
-3、 github push 内容，gitbook.com 自动更新
+```
+步骤3不强制要求
+3、 登录www.gitbook.com, [加入gitbook organisation（要翻墙）](https://www.gitbook.com/invite/eqxiu?invite=-L_ekZGCIl3Xrs2wh3Pe)
+
+```
