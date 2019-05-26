@@ -15,3 +15,5 @@
 * [climber](climber/index.md)
     * [lession011](climber/lession011.md)
     
+* [wangjunbo](wangjunbo/index.md)
+    * [12 排序（下）:如何用快排思想在O(n)内查找第K大元素？](wangjunbo/12.md)
